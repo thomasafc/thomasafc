@@ -3,10 +3,10 @@
 ### Senior Full Stack & Salesforce Engineer | Agentforce & Cloud Architect
 
 ```
-┌────────────────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────────┐
 │  Specialized in Salesforce Ecosystem, Custom Apex/LWC Architecture,  │
 │  Full-Stack Web/Mobile Systems (React/Node.js), and AI Integrations. │
-└────────────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────┘
 
 
 ```
