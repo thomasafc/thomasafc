@@ -11,6 +11,14 @@
 
 ```
 
+### 🧭 Interactive Résumé
+
+[![Card with the name Thomas Anderson, the title Senior Full Stack & Salesforce Engineer and a compass rose.](assets/resume-cover.png)](https://thomas-anderson-cv.vercel.app)
+
+A bilingual (EN / PT-BR) interactive résumé: my career told in 8 chapters around a compass rose (Salesforce Career, Salesforce Certifications, Full Stack, Git & DevOps, AI with Claude, Projects, Industries and About Me). Fully keyboard-navigable, with the classic résumé and a PDF one click away.
+
+**→ [thomas-anderson-cv.vercel.app](https://thomas-anderson-cv.vercel.app)**
+
 ### 🚀 About Me
 
 Senior Software & Cloud Engineer with extensive hands-on experience designing and delivering enterprise-grade CRM solutions, high-performance web applications, and custom mobile tools.
